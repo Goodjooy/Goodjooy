@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://github-readme-stats.vercel.app/api?username=Goodjooy)
+![-](https://github-readme-stats.vercel.app/api?username=Goodjooy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goodjooy)](https://github.com/anuraghazra/github-readme-stats)
+
+email: frozenstringstable@gmail.com
