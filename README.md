@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ![-](https://github-readme-stats.vercel.app/api?username=Goodjooy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goodjooy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goodjooy&count_private=true&show_icons=true&hide=python,html)](https://github.com/anuraghazra/github-readme-stats)
 
 email: frozenstringstable@gmail.com
